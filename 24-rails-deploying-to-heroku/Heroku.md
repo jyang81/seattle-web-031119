@@ -23,4 +23,4 @@
 - In terminal run `heroku open`
 
 ## To rename your app
-- In terminal run `heroku apps:rename newname`
+- In terminal run `heroku apps:rename "newname"`
